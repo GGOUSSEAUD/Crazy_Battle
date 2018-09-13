@@ -1,0 +1,6 @@
+<map id="alive" name="alive">
+<area shape="rect" id="node2" href="$header_8h.html#adc0e3054f821bbe5080d5f6261472247" title="Fonction d&#39;affichage de la composition. " alt="" coords="104,5,243,32"/>
+<area shape="rect" id="node3" href="$header_8h.html#aed02c2ef6b5553e0c40d67bf963420ce" title="Fonction d&#39;affichage de jeu &quot;globale&quot;. " alt="" coords="291,5,352,32"/>
+<area shape="rect" id="node4" href="$header_8h.html#a32d8d45a1f6b6a8a0c9732f010bbb4d4" title="deroulement" alt="" coords="400,5,493,32"/>
+<area shape="rect" id="node5" href="$main_8c.html#a840291bc02cba5474a4cb46a9b9566fe" title="main" alt="" coords="541,5,592,32"/>
+</map>

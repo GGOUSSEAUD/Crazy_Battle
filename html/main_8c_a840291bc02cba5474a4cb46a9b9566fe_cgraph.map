@@ -1,0 +1,33 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$deroulement_8c.html#aee4e07902ff84a3770c0ff23761ea9d7" title="deroulement" alt="" coords="121,334,215,361"/>
+<area shape="rect" id="node17" href="$header_8h.html#a15cd16237a54f3b56f5abad63a8b3045" title="initialisation_Total" alt="" coords="105,545,231,571"/>
+<area shape="rect" id="node28" href="$affiche_8c.html#a076a5efe517f3093766b0f9a93904e22" title="Fonction du Menu. " alt="" coords="141,81,195,107"/>
+<area shape="rect" id="node32" href="$header_8h.html#a979d9ac59d699c50c000c665dbad6f62" title="mon_scanf" alt="" coords="125,595,211,622"/>
+<area shape="rect" id="node3" href="$affiche_8c.html#a05b7a8be12a05e960e3a1219d462ad94" title="Fonction d&#39;affichage de jeu &quot;globale&quot;. " alt="" coords="325,182,387,209"/>
+<area shape="rect" id="node10" href="$deroulement_8c.html#ae44ed133923dd8baf0230e57fa4ed642" title="capitaine_Decouverte" alt="" coords="282,233,430,259"/>
+<area shape="rect" id="node12" href="$deroulement_8c.html#a0e78802f0500cc83086fcbbe0843ba85" title="cible" alt="" coords="542,334,591,361"/>
+<area shape="rect" id="node14" href="$deroulement_8c.html#ae40bcaed8fcacd58bc4dc9281660f944" title="Petite fonction qui regarde si tous les bateaux sont coulés via le tableau de points de vie des batea..." alt="" coords="329,385,383,411"/>
+<area shape="rect" id="node15" href="$deroulement_8c.html#a45703877fbecd0acf92c04a7cbb51a3b" title="tir" alt="" coords="337,435,375,462"/>
+<area shape="rect" id="node16" href="$deroulement_8c.html#a0740d0949f79b996f82921b0830da58a" title="tir_ia" alt="" coords="331,283,381,310"/>
+<area shape="rect" id="node4" href="$affiche_8c.html#a41d53827ffc4daef301b492e254e6bb0" title="Fonction d&#39;affichage de la composition. " alt="" coords="497,182,636,209"/>
+<area shape="rect" id="node7" href="$affiche_8c.html#affe39a600a94cbabf89fc42c0ebda0ec" title="Fonction d&#39;affichage de la bannière. " alt="" coords="531,30,602,57"/>
+<area shape="rect" id="node8" href="$affiche_8c.html#a806d259cd8c1a81bad8a7ef37857fcb4" title="Fonction d&#39;affichage de la grille. " alt="" coords="542,233,591,259"/>
+<area shape="rect" id="node9" href="$affiche_8c.html#a730c2540a493dd6d25792d63e2804b95" title="Fonction lectrice de fichier file en format log. " alt="" coords="531,131,602,158"/>
+<area shape="rect" id="node5" href="$affiche_8c.html#abd9fbc2829aebbc79d05846a5c53f9ff" title="Fonction de type prédicat binaire purement graphique. " alt="" coords="751,157,801,183"/>
+<area shape="rect" id="node6" href="$affiche_8c.html#a6e7b778de6868ecb68c01b89762c86ee" title="Fonction d&#39;affichage de la barre de vie. " alt="" coords="735,207,817,234"/>
+<area shape="rect" id="node11" href="$header_8h.html#adcd6263a84cd3e3335f27fffdba161c7" title="rand_n" alt="" coords="536,283,597,310"/>
+<area shape="rect" id="node13" href="$deroulement_8c.html#a93bb2f673d2d4246257b3d43d78fca12" title="devoile_case" alt="" coords="727,334,825,361"/>
+<area shape="rect" id="node18" href="$initialisation_8c.html#a015301442b609481dc0d7ff7c399c6ef" title="affichage" alt="" coords="739,519,813,546"/>
+<area shape="rect" id="node19" href="$initialisation_8c.html#adb28b5409a4f85abe4038caeb0c98192" title="initialisation_Classe\l_Total" alt="" coords="287,655,425,696"/>
+<area shape="rect" id="node21" href="$initialisation_8c.html#a9861d0a95a2fd2525657bcb54a12d419" title="mon_scanf" alt="" coords="733,642,819,669"/>
+<area shape="rect" id="node25" href="$initialisation_8c.html#accdd45a19ef2130b7c31b008e4b00d37" title="initialiser_Bateau\l_Joueur" alt="" coords="506,537,627,579"/>
+<area shape="rect" id="node27" href="$initialisation_8c.html#ace8418d52e0c8d90aac38b931c8ff16e" title="initialiser_Joueur_Vide" alt="" coords="280,721,432,747"/>
+<area shape="rect" id="node20" href="$initialisation_8c.html#a868badeebe4199b4099c377a1315b244" title="initialisation_Classe\l_Choix" alt="" coords="497,655,636,696"/>
+<area shape="rect" id="node22" href="$initialisation_8c.html#abfe794b1f726bf3c54e6b541b4d74f88" title="initialisation_Classe_Mine" alt="" coords="480,721,653,747"/>
+<area shape="rect" id="node24" href="$initialisation_8c.html#a4415e3c9d8b65952e433a3c14c9f985f" title="rand_n" alt="" coords="745,717,807,743"/>
+<area shape="rect" id="node23" href="$initialisation_8c.html#a9182699f8bb2ebffc78f67d4938d4192" title="efface" alt="" coords="747,767,805,794"/>
+<area shape="rect" id="node26" href="$initialisation_8c.html#a2c4bf67a577efa111c617db50efa46d5" title="initialiser_Test_Coord" alt="" coords="702,570,850,597"/>
+<area shape="rect" id="node29" href="$affiche_8c.html#abe100c976bb4d1b7c8f753bb199e8c11" title="Fonction d&#39;affichage des choix du menu. " alt="" coords="323,30,389,57"/>
+<area shape="rect" id="node30" href="$affiche_8c.html#a5864f6393c74073a86a19645a5c55f24" title="Fonction d&#39;affichage des crédits. " alt="" coords="325,81,387,107"/>
+<area shape="rect" id="node31" href="$affiche_8c.html#a465a6245f7bd4bb0707c426a04f23492" title="Fonction lectrice de fichier file. " alt="" coords="333,131,379,158"/>
+</map>
